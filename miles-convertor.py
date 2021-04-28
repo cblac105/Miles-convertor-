@@ -27,9 +27,10 @@ kilometers8 = float(input("Please enter distance in Kilometers:"))
 kilometers9 = float(input("Please enter distance in Kilometers:"))
 kilometers10 = float(input("Please enter distance in Kilometers:"))
 
-return kilometer1, kilometer2, kilometer3, kilometer4, kilometer5
+return kilometer1, kilometer2, kilometer3, kilometer4, kilometer5,\
+       kilometer6, kilometer7, kilometer8, kilometer9, kilometer10,
 
-def printconvertedresults(kilometer1, kilometer2, kilometer3, kilometer4, kilometer5)
+def printconvertedresults(kilometer1, kilometer2, kilometer3, kilometer4, kilometer5, kilometer6, kilometer7,kilometer8,kilometer9,kilometer10)
 
 print("kilometers\tMiles")
 print( str( Kilometer1)+ "\t"+calcMiles( kilometers1),
