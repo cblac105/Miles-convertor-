@@ -38,12 +38,20 @@ print( str( Kilometer1)+ "\t"+calcMiles( kilometers1),
      (str(Kilometer3 + "\t" + calcMiles(kilometers3),
      (str(Kilometer4 + "\t" + calcMiles(kilometers4),
      (str(Kilometer5 + "\t" + calcMiles(kilometers5),
+     (str(Kilometer6 + "\t" + calcMiles(kilometers6),
+     (str(Kilometer7 + "\t" + calcMiles(kilometers7),
+     (str(Kilometer8 + "\t" + calcMiles(kilometers8),
+     (str(Kilometer9 + "\t" + calcMiles(kilometers9),
+     (str(Kilometer10 + "\t" + calcMiles(kilometers10),
 
 
 def main():
-  kilometer1, kilometer2, kilometer3, kilometer4, kilometer5,\ = askForDistance()
+     kilometer1, kilometer2, kilometer3, kilometer4, kilometer5,\
+     kilometer6, kilometer7, kilometer8, kilometer9, kilometer10 = askForDistance()
   print("")
   printconvertedresults(kilometer1, kilometer2, kilometer3, kilometer4, kilometer5,\
+                         kilometer6, kilometer7,kilometer8, kilometer9, kilometer10) 
   print( askfordistance, "kilometers converted to miles is", printconvertedresults(kilomters1, kilometers2, kilometers3, kilometers4, kilometers5)\
+                                                                                 kilometer6, kilometer7,kilometer8, kilometer9, kilometer10)
   
   main()
