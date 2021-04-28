@@ -6,6 +6,11 @@ mile2 = kilometers2 * 0.6214
 mile3 = kilometers3 * 0.6214
 mile4 = kilometers4 * 0.6214
 mile5 = kilometers5 * 0.6214
+mile6 = kilometers6 * 0.6214
+mile7 = kilometers7 * 0.6214
+mile8 = kilometers8 * 0.6214
+mile9 = kilometers9 * 0.6214
+mile10 =kilometers10 * 0.6214
 
 return mile1, mile2, mile3, mile4, mile5,\
 
