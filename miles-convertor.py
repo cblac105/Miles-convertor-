@@ -21,6 +21,11 @@ kilometers2 = float(input("Please eneter distance in Kilometers:"))
 kilometers3 = float(input("Please enter distance in Kilometers:"))
 kilometers4 = float(input("Please enter distance in Kilometers:"))
 kilometers5 = float(input("Please enter distance in Kilometers:"))
+kilometers6 = float(input("Please enter distance in Kilometers:"))
+kilometers7 = float(input("Please enter distance in Kilometers:"))
+kilometers8 = float(input("Please enter distance in Kilometers:"))
+kilometers9 = float(input("Please enter distance in Kilometers:"))
+kilometers10 = float(input("Please enter distance in Kilometers:"))
 
 return kilometer1, kilometer2, kilometer3, kilometer4, kilometer5
 
