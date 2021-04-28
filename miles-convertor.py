@@ -1,4 +1,5 @@
-def calcMiles (kilometers1, kilometers2, kilometers3, kilometers4, kilometers5):
+def calcMiles (kilometers1, kilometers2, kilometers3, kilometers4, kilometers5,\
+               kilometers6, kilometers7, kilometers8, kilometers9, kilometers10):
 
 mile1 = kilometers1 *   0.6214
 mile2 = kilometers2 * 0.6214
