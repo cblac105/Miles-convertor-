@@ -13,6 +13,7 @@ mile9 = kilometers9 * 0.6214
 mile10 =kilometers10 * 0.6214
 
 return mile1, mile2, mile3, mile4, mile5,\
+     mile6, mile7, mile8, mile9, mile10 
 
 def askfordistance():
 kilometers1 = float(input("Please enter distance in kilometers: "))
